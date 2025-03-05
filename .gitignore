@@ -1,0 +1,14 @@
+#No subir el entorno virtual
+venv/
+
+#No subir archivos de configuracion de python
+__pycache__/
+*.pyc
+*.pyo
+
+#No subir la base de datos SQLIte
+instance/
+
+#Evitar archivos de configuraci[on del so
+.DS_Store
+Thumbs.db
